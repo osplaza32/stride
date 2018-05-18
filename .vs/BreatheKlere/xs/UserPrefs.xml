@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{19773627-9912-42ED-9597-E2C9AAAEB6DE}|Default">
+  <MonoDevelop.Ide.ItemProperties.BreatheKlere.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7FF04407-FB26-4418-B2FF-B640E004FD16" automaticSigning="False" />
+  <MonoDevelop.Ide.ItemProperties.BreatheKlere.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="BreatheKlere/Pages/LoginPage.xaml" Line="16" Column="1" />
+      <File FileName="BreatheKlere/Pages/LoginPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="BreatheKlere/Pages/LocationSelectionPage.xaml.cs" Line="147" Column="37" />
+      <File FileName="BreatheKlere/Pages/BreatheKlerePage.xaml.cs" Line="416" Column="1" />
+      <File FileName="BreatheKlere/obj/Debug/BreatheKlere.Pages.BreatheKlerePage.xaml.g.cs" Line="27" Column="1" />
+      <File FileName="BreatheKlere/Pages/BreatheKlerePage.xaml" Line="41" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
